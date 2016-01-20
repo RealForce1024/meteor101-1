@@ -1,4 +1,4 @@
-# 毛豆网 Meteor 培训 course-m1
+# 毛豆网 Meteor 培训 Meteor 101
 
   	 Meteor 初级班教程
 
