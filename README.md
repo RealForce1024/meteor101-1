@@ -41,5 +41,6 @@
 - [Discover Meteor 中文版](http://zh.discovermeteor.com/)
 - [Understanding Meteor Internals](https://meteorhacks.com/understanding-meteor-internals.html)
 - [MongoDB](http://www.runoob.com/mongodb/mongodb-databases-documents-collections.html)
+- [MongoDB教程](http://www.yiibai.com/mongodb/)
 - [Git基础](https://github.com/mzkmzk/Read/blob/master/progit.md)
 - [网盘](https://yunpan.cn/cuC2fi3UwweeN) (提取码：59fd)
