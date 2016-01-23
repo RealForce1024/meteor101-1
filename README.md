@@ -28,6 +28,7 @@
 - [day 0](day0)
 - [day 1](day1)
 - [day 2](day2)
+- [day 3-4](day3_4)
 
 ## 考核
 
