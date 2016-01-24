@@ -44,4 +44,5 @@
 - [MongoDB](http://www.runoob.com/mongodb/mongodb-databases-documents-collections.html)
 - [MongoDB教程](http://www.yiibai.com/mongodb/)
 - [Git基础](https://github.com/mzkmzk/Read/blob/master/progit.md)
+- [Chorme 35个开发者工具的小技巧](http://web.jobbole.com/84913/)
 - [网盘](https://yunpan.cn/cuC2fi3UwweeN) (提取码：59fd)
